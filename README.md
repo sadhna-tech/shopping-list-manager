@@ -1,4 +1,4 @@
-# Shopping List Manager 🛒
+# Shopping List Manager 
 
 A simple command-line Python application that helps users create and manage their shopping list.
 
